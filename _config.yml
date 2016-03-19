@@ -1,0 +1,28 @@
+name: Becca Test Site
+favicon: null
+layout_spectrum: 0.988790767500177
+typography_spectrum: 0.9357068780809641
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9333457485772669
+  lightness: 0.2757619002368301
+  saturation: 0.1525300252251327
+  rhythmicContrast: 0.13508414011448622
+purpose: []
